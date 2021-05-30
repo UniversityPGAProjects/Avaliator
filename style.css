@@ -9,11 +9,3 @@ header{
 a{
   cursor:pointer;
 }
-
-.main{
-  margin: 0px 280px;
-  width: 700px;
-  height: 700px;
-  background-color:rgba(41, 39, 39, 0.712);
-  border-radius: 6px;
-}
