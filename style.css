@@ -25,7 +25,7 @@ a{
   width: 70%;
 }
 
-.choices > img{
+.choices > a > img{
   margin: auto 20px;
   width: 400px;
   height: 250px;
