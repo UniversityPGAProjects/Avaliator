@@ -44,3 +44,9 @@ h1{
   color:white;
   font-family: Asap,sans-serif;
 }
+
+.img-imd{
+  width: 400px;
+  height: 220px;
+  border: solid rgb(29,218,22) 3px;
+}
